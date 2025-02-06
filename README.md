@@ -1,7 +1,6 @@
 # Gulp-Kit-V5.0.0
 
 ## Folders structure
- -  Serial number: `70AD-C338`
  -  create a tree: `tree /f > tree.txt`
 ```
 Gulp-Kit-V5.0.0
