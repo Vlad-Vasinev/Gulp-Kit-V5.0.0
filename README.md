@@ -36,7 +36,6 @@ Gulp-Kit-V5.0.0
     │       pic.png
     ├───js
     │   │   footer.js
-    │   │   
     │   └───header
     │           header.js  
     ├───pages
